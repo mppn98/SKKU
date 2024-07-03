@@ -1,0 +1,6 @@
+[submodule "3-1/Open_Source_Software/Mypet_jumping_game"]
+	path = 3-1/Open_Source_Software/Mypet_jumping_game
+	url = https://github.com/mppn98/Mypet_jumping_game.git
+[submodule "3-1/Open_Source_Software/oss_week11_docker"]
+	path = 3-1/Open_Source_Software/oss_week11_docker
+	url = https://github.com/mppn98/oss_week11_docker.git
