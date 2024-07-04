@@ -1,2 +1,2 @@
 # SKKU
-Repository for organizing and storing study materials for each semester at SKKU
+Repository for organizing and storing study materials for each semester at Sungkyunkwan University
