@@ -1,0 +1,9 @@
+ChangeMajor.class
+CleverFindMajors.class
+FindMajors.class
+StudentMajor.class
+EmbeddedStudentMajor.class
+BadStudentMajor.class
+CreateTestDB.class
+PreparedFindMajors.class
+CreateStudentDB.class

@@ -1,0 +1,7 @@
+NOTE:
+
+After completing the necessary implementation for each task, you should copy
+the java files located in this directory to their respective package locations
+and then compile them using mvn.
+
+
